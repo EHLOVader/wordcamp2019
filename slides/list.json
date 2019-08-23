@@ -1,8 +1,13 @@
 [
     "index.md",
-    "introduction.md",
-    "working.md",
+    "introduction.html",
+    "working.html",
     "fix.html",
     "roots.html",
-    "bedrock.html"
+    "bedrock.html",
+    "install.html",
+    "env.html",
+    "folders.html",
+    "dependencies.html",
+    "sage.html"
 ]
