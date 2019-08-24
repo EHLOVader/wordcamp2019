@@ -9,5 +9,15 @@
     "env.html",
     "folders.html",
     "dependencies.html",
-    "sage.html"
+    "sage.html",
+    "webpack.html",
+    "browsersync.html",
+    "scss.html",
+    "router.html",
+    "mvc.html",
+    "mvc-blade.html",
+    "controller.html",
+    "start.html",
+    "thanks.html",
+    "suggest.html"
 ]
