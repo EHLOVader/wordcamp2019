@@ -2,6 +2,7 @@
     "index.md",
     "introduction.html",
     "working.html",
+    "how.html",
     "fix.html",
     "roots.html",
     "bedrock.html",
@@ -19,5 +20,6 @@
     "controller.html",
     "start.html",
     "thanks.html",
+    "questions.html",
     "suggest.html"
 ]
