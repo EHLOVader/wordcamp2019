@@ -3,16 +3,16 @@
   "version": "0.0.0",
   "private": true,
   "devDependencies": {
-    "grunt": "^1.5.2",
-    "grunt-sass": "^2.0.0",
-    "grunt-contrib-connect": "^1.0.2",
-    "grunt-contrib-watch": "^1.0.0",
-    "grunt-contrib-copy": "^1.0.0",
-    "grunt-contrib-jshint": "^1.1.0",
-    "load-grunt-tasks": "^3.5.2",
+    "coffeelint": "^1.16.0",
+    "grunt": "^1.6.1",
     "grunt-build-control": "^0.7.1",
-    "grunt-coffeelint": "0.0.16",
-    "coffeelint": "^1.16.0"
+    "grunt-coffeelint": "^0.0.16",
+    "grunt-contrib-connect": "^3.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^3.2.0",
+    "grunt-sass": "^3.1.0",
+    "load-grunt-tasks": "^5.1.0",
+    "sass": "^1.61.0"
   },
   "engines": {
     "node": ">=4"
@@ -23,5 +23,9 @@
   },
   "scripts": {
     "test": "grunt test"
+  },
+  "dependencies": {
+    "coffeescript": "^2.7.0",
+    "grunt-contrib-watch": "^1.1.0"
   }
 }
